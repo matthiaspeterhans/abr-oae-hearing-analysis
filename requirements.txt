@@ -4,3 +4,8 @@ scipy
 scikit-learn
 matplotlib
 jupyter
+
+wfdb
+tqdm
+seaborn
+ipykernel
