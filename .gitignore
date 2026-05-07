@@ -14,8 +14,13 @@ env/
 
 # Data
 data*/
-
+results/*
 # Results / Models
+results/tables/
+results/qc_plots/
+results/earh_oae_trg/
+results/preprocessed/
+results/matplotlib_cache/
 results/models/
 results/tmp/
 
@@ -32,3 +37,5 @@ Thumbs.db
 
 # Environment variables
 .env
+# ignore .png
+*.png
